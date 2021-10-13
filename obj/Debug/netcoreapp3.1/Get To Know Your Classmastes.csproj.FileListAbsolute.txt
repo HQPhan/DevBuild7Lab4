@@ -1,0 +1,14 @@
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\bin\Debug\netcoreapp3.1\Get To Know Your Classmastes.exe
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\bin\Debug\netcoreapp3.1\Get To Know Your Classmastes.deps.json
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\bin\Debug\netcoreapp3.1\Get To Know Your Classmastes.runtimeconfig.json
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\bin\Debug\netcoreapp3.1\Get To Know Your Classmastes.runtimeconfig.dev.json
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\bin\Debug\netcoreapp3.1\Get To Know Your Classmastes.dll
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\bin\Debug\netcoreapp3.1\Get To Know Your Classmastes.pdb
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\obj\Debug\netcoreapp3.1\Get To Know Your Classmastes.csproj.AssemblyReference.cache
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\obj\Debug\netcoreapp3.1\Get To Know Your Classmastes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\obj\Debug\netcoreapp3.1\Get To Know Your Classmastes.AssemblyInfoInputs.cache
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\obj\Debug\netcoreapp3.1\Get To Know Your Classmastes.AssemblyInfo.cs
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\obj\Debug\netcoreapp3.1\Get To Know Your Classmastes.csproj.CoreCompileInputs.cache
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\obj\Debug\netcoreapp3.1\Get To Know Your Classmastes.dll
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\obj\Debug\netcoreapp3.1\Get To Know Your Classmastes.pdb
+C:\Users\HPHAN1\devbuild\LAB4\Get To Know Your Classmastes\obj\Debug\netcoreapp3.1\Get To Know Your Classmastes.genruntimeconfig.cache
